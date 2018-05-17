@@ -14,11 +14,11 @@ int main() {
 			cout << "Good for you" << endl;
 			break;
 		case 18:
-			cout << "You can know play the lottery" << endl;
+			cout << "You can now play the lottery" << endl;
 			cout << "Waste of money" << endl;
 			break;
 		case 21:
-			cout << "You can know get durnk" << endl;
+			cout << "You can now get durnk" << endl;
 			cout << "like a child" << endl;
 			break;
 		case 22:

@@ -12,7 +12,7 @@ using namespace std;
 int main() {
 	
 	int x = 0;
-	srand(time(0));
+	srand(time(0)); // makes program truely random
 	
 	while (x <= 25) {
 	cout << 1+(rand()%6) << endl;
